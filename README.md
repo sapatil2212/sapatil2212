@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Swapnil Patil
+## About Me
+I am a Software Developer with a passion for creating full-stack applications and solving complex problems. I specialize in Core Java, C/C++, HTML, CSS, JavaScript, and MySQL.
 
-<!--
-**sapatil2212/sapatil2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- **Full Stack Development**
+- **Languages:**  Java, C/C++
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Databases:** MySQL
+- **Frameworks** Spring Boot, Angular
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- **Email:** swapnilpatil221298@gmail.com
+- **LinkedIn:** www.linkedin.com/in/swapnil-patil-b56808218
